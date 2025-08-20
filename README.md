@@ -1,6 +1,6 @@
-# AI-Powered Identity Verification and Fraud Detection for KYC.
+# KYC_BACKEND_TEAM-A
 
-# KYC_BACKEND_TEAM-B
+# AI-Powered Identity Verification and Fraud Detection for KYC.
 
 Build a smart AI system that:
 
