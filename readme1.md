@@ -4,5 +4,5 @@ ocr_extractor.py------------------- working ocr script ,
 fields_extractor.py----------------- extract form raw text ,
 cleaning_utils.py ------------------ standardize and cleaning ,  
 
-
-This is SHUBHAM SHARMA (starkadam999@gmail.com) contribution to module-1 tasks. on 24 Sunday August 2025  
+ 
+ SHUBHAM SHARMA (starkadam999@gmail.com)  module-1 tasks. on  Sunday 24th August 2025  
