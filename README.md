@@ -63,7 +63,7 @@ project_root/
 │
 ├── utils/
 │   └── cleaning_utils.py
-│
+│_ main.py
 ├── README.md
 └── requirements.txt
 
